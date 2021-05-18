@@ -1,0 +1,3 @@
+# Drum-Kit
+A simple Drum-Kit project made of HTML,CSS & JAVASCRIPT...
+![Screenshot (163)](https://user-images.githubusercontent.com/77768153/118680592-8252ed80-b81c-11eb-8536-dbce0b8504ea.png)
